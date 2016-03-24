@@ -6,10 +6,12 @@
 	 xml:space="preserve">
 <linearGradient id="grayscale" x1="0%" y1="0%" x2="0%" y2="100%">
   <stop offset="0%" style="stop-color:rgb(153,153,153);stop-opacity:1"/>
-  <stop offset="15%" style="stop-color:rgb(102,102,102);stop-opacity:1"/>
-  <stop offset="85%" style="stop-color:rgb(102,102,102);stop-opacity:1"/>
-  <stop offset="100%" style="stop-color:rgb(51,51,51);stop-opacity:1"/>
+  <stop offset="10%" style="stop-color:rgb(74,74,74);stop-opacity:1"/>
+  <stop offset="90%" style="stop-color:rgb(74,74,74);stop-opacity:1"/>
+  <stop offset="100%" style="stop-color:rgb(32,32,32);stop-opacity:1"/>
 </linearGradient>
-<path d="M3,23a18,18,0,0,1,20-20L177,3a18,18,0,0,1,20,20l0,154a18,18,0,0,1-20,20l-154,0a18,18,0,0,1-20-20Z" stroke="rgb(102,102,102)" stroke-width="2" fill="url(#grayscale)"/>
+<path d="M3,21a18,18,0,0,1,18-18L179,3a18,18,0,0,1,18,18l0,158a18,18,0,0,1-18,18l-158,0a18,18,0,0,1-18-18Z" stroke="rgb(74,74,74)" stroke-width="2" fill="url(#grayscale)"/>
 <path d="M1,21a20,20,0,0,1,20-20L179,1a20,20,0,0,1,20,20l0,158a20,20,0,0,1-20,20l-158,0a20,20,0,0,1-20-20Z" stroke="black" stroke-width="2" fill="transparent"/>
+<path d="M4,21a17,17,0,0,1,17-17L179,4a17,17,0,0,1,17,17l0,59a192,150,0,0,1-192,0Z" fill="white" fill-opacity=".1"/>
+<path d="M4,179a17,17,0,0,0,17,17l158,0a17,17,0,0,0,17-17a192,150,0,0,0-192,0Z" fill="black" fill-opacity=".1"/>
 </svg>
